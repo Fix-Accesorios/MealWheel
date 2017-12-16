@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meal Wheel</string>
+    <string name="title_home">Randomize a place to eat at!</string>
+    <string name="randomize_button">Randomize now!</string>
+</resources>
